@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Ghuntter]
+# 👋 Olá, eu sou Ghuntter
 
 <div align="center">
   
