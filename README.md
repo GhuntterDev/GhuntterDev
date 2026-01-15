@@ -40,180 +40,88 @@ Desenvolvedor Full Stack especializado em criar soluções completas de e-commer
 
 ### 📱 App Melhor das Casas - E-commerce Completo
 
-Sistema completo de e-commerce desenvolvido do zero, incluindo:
+**Status:** ✅ Publicado na App Store e Google Play Store | **Versão:** 1.1.1
 
-#### **App Mobile (React Native + Expo)**
+Sistema completo de e-commerce desenvolvido do zero, incluindo app mobile, dashboard administrativo e API backend.
+
+#### 📲 Download
+- [![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/melhor-das-casas/id6757482578)
+- [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.melhordascasas.app)
+
+#### **Principais Funcionalidades**
 - ✅ Catálogo de produtos com busca avançada e filtros
 - ✅ Sistema de carrinho e checkout híbrido (Shopify)
 - ✅ Listas de casamento/compras com compartilhamento
 - ✅ Sistema de favoritos e avaliações
-- ✅ Perfil do usuário com gestão de endereços
 - ✅ Notificações push (Expo)
-- ✅ Cálculo de frete em tempo real
-- ✅ Preços dinâmicos (varejo vs atacado)
-
-#### **Dashboard Administrativo (React)**
-- ✅ Dashboard de métricas com gráficos interativos (Recharts)
-- ✅ Sistema de analytics completo com tracking de eventos
-- ✅ Editor visual de templates para home do app
-- ✅ Gestão de produtos, usuários e pedidos
+- ✅ Dashboard de analytics com métricas em tempo real
+- ✅ Editor visual de templates para home
+- ✅ Integração completa com Shopify (webhooks, sincronização automática)
 - ✅ Sistema de notificações push segmentadas
-- ✅ Análise temporal (horários de pico, dias da semana)
-- ✅ Métricas de engajamento, retenção e valor
-- ✅ Identificação de carrinhos abandonados
 
-#### **Backend API (Node.js + Express + PostgreSQL)**
-- ✅ API RESTful completa com autenticação JWT
-- ✅ Integração com Shopify (produtos, pedidos, webhooks)
-- ✅ Sistema de analytics com eventos rastreados
-- ✅ Sincronização automática de produtos
-- ✅ Sistema de notificações push (Expo Server SDK)
-- ✅ Rate limiting e retry com backoff exponencial
-- ✅ Cache inteligente para otimização de performance
-
-#### **Funcionalidades Avançadas**
-- 🔄 Sincronização automática de produtos com Shopify
-- 📊 Analytics em tempo real com mais de 15 tipos de eventos
-- 🔔 Notificações push segmentadas por usuário
-- 🛒 Sistema de listas de casamento com rastreamento de compras
-- 📈 Dashboard com métricas de engajamento, retenção e conversão
-- 🔍 Busca inteligente com termos mais buscados
-- 📱 Suporte a iOS e Android (standalone builds)
+#### **Stack Técnica**
+- **Mobile:** React Native + Expo SDK 54
+- **Dashboard:** React 18+ + Vite + Recharts
+- **Backend:** Node.js + Express + PostgreSQL
+- **Integrações:** Shopify API, Expo Server SDK
 
 ---
 
-## 📊 Estatísticas do Projeto
+### 🎫 Deskit - Sistema de Gestão de Chamados
 
-- **+30 telas** desenvolvidas no app mobile
-- **+15 tipos de eventos** de analytics rastreados
-- **+10 métricas** diferentes no dashboard
-- **Integração completa** com Shopify API
-- **Sistema de notificações** push implementado
-- **Dashboard de analytics** com visualizações interativas
+**Status:** ✅ Publicado como App Web | **URL:** [deskitapp.com.br](https://deskitapp.com.br)
 
----
+Sistema completo de gestão de chamados/tickets desenvolvido para facilitar o atendimento e resolução de problemas.
 
-## 🛠️ Stack Técnica Completa
+#### **Principais Funcionalidades**
+- ✅ Criação e gestão de chamados/tickets
+- ✅ Sistema de categorização e priorização
+- ✅ Acompanhamento de status em tempo real
+- ✅ Dashboard com métricas de atendimento
+- ✅ Notificações de atualizações
+- ✅ Interface web responsiva
 
-### Mobile
-- React Native 0.74+
-- Expo SDK 54
-- React Navigation
-- Context API para gerenciamento de estado
-- AsyncStorage para persistência local
-- Expo Notifications para push
-- React Native Reanimated para animações
+#### **Stack Técnica**
+- **Frontend:** React / React Native
+- **Backend:** Node.js + Express
+- **Database:** PostgreSQL
+- **Notificações:** Push Notifications
 
-### Frontend (Dashboard)
-- React 18+
-- Vite como build tool
-- Recharts para visualizações
-- Tailwind CSS (via inline styles)
-- Context API para estado global
-- Axios para requisições HTTP
-
-### Backend
-- Node.js 18+
-- Express.js
-- PostgreSQL 12+
-- JWT para autenticação
-- Expo Server SDK para notificações
-- Shopify Admin API
-- Rate limiting com express-rate-limit
-- Retry logic com backoff exponencial
-
-### DevOps & Ferramentas
-- Git para versionamento
-- EAS Build para builds mobile
-- Render.com para deploy backend
-- PostgreSQL (cloud)
+🌐 **Acesso:** [deskitapp.com.br](https://deskitapp.com.br)
 
 ---
 
-## 🎨 Funcionalidades Implementadas
+## 📊 Estatísticas
 
-### Sistema de Analytics
-- ✅ Rastreamento de eventos em tempo real
-- ✅ Análise temporal (horários de pico, dias ativos)
-- ✅ Métricas de sessão (duração, eventos por sessão)
-- ✅ Métricas de retenção (usuários recorrentes)
-- ✅ Análise de valor (ticket médio, conversão)
-- ✅ Métricas de engajamento (taxa de engajamento, top usuários)
-- ✅ Busca de termos mais buscados
-- ✅ Identificação de buscas sem resultado
-
-### Sistema de Notificações
-- ✅ Push notifications via Expo
-- ✅ Segmentação por usuário
-- ✅ Notificações para carrinhos abandonados
-- ✅ Gestão de tokens de dispositivos
-- ✅ Suporte a iOS e Android standalone
-
-### Integração Shopify
-- ✅ Sincronização automática de produtos
-- ✅ Webhooks para pedidos
-- ✅ Checkout híbrido (app + Shopify)
-- ✅ Rastreamento de pedidos
-- ✅ Sincronização de avaliações
-
-### Sistema de Listas
-- ✅ Criação de listas de casamento/compras
-- ✅ Compartilhamento via código
-- ✅ Rastreamento automático de compras
-- ✅ Notificações quando itens são comprados
-
----
-
-## 📈 Métricas e Analytics
-
-O sistema rastreia e analisa:
-- 👥 Usuários ativos em tempo real
-- 📱 Visualizações de produtos
-- 🛒 Adições ao carrinho
-- 🔍 Buscas realizadas
-- ❤️ Favoritos adicionados
-- 📊 Conversões (checkout → pedido)
-- ⏱️ Duração de sessões
-- 🔄 Taxa de retenção
-- 💰 Valor médio de pedidos
-- 📈 Engajamento dos usuários
-
----
-
-## 🚀 Próximos Passos
-
-- [ ] Implementar testes automatizados (Jest, React Testing Library)
-- [ ] Adicionar CI/CD com GitHub Actions
-- [ ] Implementar sistema de cache Redis
-- [ ] Adicionar suporte a múltiplos idiomas (i18n)
-- [ ] Implementar dark mode no app
-- [ ] Adicionar sistema de cupons e descontos
-- [ ] Implementar programa de fidelidade
+- **2 projetos** principais em produção
+- **1 app mobile** publicado (App Store + Google Play)
+- **1 app web** publicado (Deskit)
+- **+30 telas** desenvolvidas
+- **+15 tipos de eventos** de analytics
+- **100+ downloads** na Google Play Store
 
 ---
 
 ## 📚 Aprendizados e Conquistas
 
 - ✅ Desenvolvimento completo de app mobile React Native do zero
+- ✅ Publicação de apps nas principais stores (App Store e Google Play)
 - ✅ Integração complexa com APIs externas (Shopify)
 - ✅ Implementação de sistema de analytics robusto
 - ✅ Desenvolvimento de dashboard administrativo completo
 - ✅ Otimização de performance com paginação e cache
 - ✅ Implementação de notificações push escaláveis
-- ✅ Tratamento de rate limiting e retry logic
 - ✅ Arquitetura de microserviços e APIs RESTful
-
-## Outros projetos
-- Deskit (https://deskitapp.com.br)
-  Sistema de organização de chamados.
-  
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: [ghuntterdev@gmail.com](mailto:ghuntterdev@gmail.com)
-- 💼 LinkedIn: [Seu Perfil](https://linkedin.com/in/ghuntter-mendes)
+- 📧 **Email:** [ghuntterdev@gmail.com](mailto:ghuntterdev@gmail.com)
+- 💼 **LinkedIn:** [Ghuntter Mendes](https://linkedin.com/in/ghuntter-mendes)
+- 🌐 **Deskit:** [deskitapp.com.br](https://deskitapp.com.br)
+- 📱 **App Store:** [Melhor das Casas](https://apps.apple.com/br/app/melhor-das-casas/id6757482578)
+- 🤖 **Google Play:** [Melhor das Casas](https://play.google.com/store/apps/details?id=com.melhordascasas.app)
 
 ---
 
