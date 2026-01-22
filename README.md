@@ -117,7 +117,7 @@ Sistema completo de gestão de chamados/tickets desenvolvido para facilitar o at
 
 ## 📫 Contato
 
-- 📧 **Email:** [ghuntterdev@gmail.com](mailto:ghuntterdev@gmail.com)
+- 📧 **Email:** [devghuntter@gmail.com](mailto:devghuntter@gmail.com)
 - 💼 **LinkedIn:** [Ghuntter Mendes](https://linkedin.com/in/ghuntter-mendes)
 - 🌐 **Deskit:** [deskitapp.com.br](https://deskitapp.com.br)
 - 📱 **App Store:** [Melhor das Casas](https://apps.apple.com/br/app/melhor-das-casas/id6757482578)
