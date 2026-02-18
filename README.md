@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer  
+### 🚀 Software Engineer Student  
 **Java • Node.js • React • React Native • PostgreSQL**
 
 Construo **sistemas completos de ponta a ponta** — APIs escaláveis, aplicações web, apps mobile e dashboards de analytics, com foco em **produtos reais em produção**.
@@ -16,7 +16,7 @@ Construo **sistemas completos de ponta a ponta** — APIs escaláveis, aplicaç�
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor Full Stack com experiência prática em **arquitetar, desenvolver e manter sistemas em produção**, desde o backend até a experiência final do usuário.
+Sou um desenvolvedor com experiência prática em **arquitetar, desenvolver e manter sistemas em produção**, desde o backend até a experiência final do usuário.
 
 Atuo forte em:
 - APIs REST e integrações complexas
